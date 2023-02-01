@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #f8a5c2;
+  background: #24b8a4;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -53,7 +53,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #e66767;
+  background: #b5e667;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -76,7 +76,7 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: rgba(255, 0, 0, 0.37);
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
@@ -149,7 +149,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #e66767;
+  background: #cf9757;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -347,7 +347,7 @@ hr {
     background: #303952;}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: #cec328; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
